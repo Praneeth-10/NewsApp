@@ -9,6 +9,8 @@
 /.idea/assetWizardSettings.xml
 .DS_Store
 .idea
+/buildSRC/build
+/buildSRC/.gradle
 /build
 /captures
 .externalNativeBuild
